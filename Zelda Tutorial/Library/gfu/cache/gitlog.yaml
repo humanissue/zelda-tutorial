@@ -13,9 +13,201 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-04-01T19:41:33.113+11:00
+  lastUpdatedAtString: 2019-04-01T19:53:08.802+11:00
   initializedAtString: 2019-04-01T18:52:41.547+11:00
   log:
+  - commitID: 39d659479c08e481241ee51662fb1cde5d7db7a1
+    mergeA: 
+    mergeB: 
+    authorName: humanissue
+    authorEmail: 48816092+humanissue@users.noreply.github.com
+    commitEmail: 48816092+humanissue@users.noreply.github.com
+    commitName: humanissue
+    summary: Lesson 10
+    description: 
+    timeString: 2019-04-01T19:41:47.000+11:00
+    commitTimeString: 2019-04-01T19:41:47.000+11:00
+    changes:
+    - path: .gitignore
+      fullPath: D:\programming\unity\zelda tutorial\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Zelda Tutorial\.vs\Zelda Tutorial\v15\Server\sqlite3\storage.ide-shm
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\.vs\Zelda Tutorial\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\Zelda Tutorial\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\.vs\Zelda Tutorial\v15\Server\sqlite3\storage.ide-wal
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\.vs\Zelda Tutorial\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\Zelda Tutorial\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Assembly-CSharp.csproj
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Assets\Art\gfx\objects.png.meta
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Assets\Art\gfx\objects.png.meta
+      projectPath: Assets\Art\gfx\objects.png.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Assets\Scenes\SampleScene.unity
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Assets\Scripts\sign.cs
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Assets\Scripts\sign.cs
+      projectPath: Assets\Scripts\sign.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Zelda Tutorial\Assets\Scripts\sign.cs.meta
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Assets\Scripts\sign.cs.meta
+      projectPath: Assets\Scripts\sign.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Zelda Tutorial\Assets\prefabs\Sign.prefab
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Assets\prefabs\Sign.prefab
+      projectPath: Assets\prefabs\Sign.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Zelda Tutorial\Assets\prefabs\Sign.prefab.meta
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Assets\prefabs\Sign.prefab.meta
+      projectPath: Assets\prefabs\Sign.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Zelda Tutorial\Library\InspectorExpandedItems.asset
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\StateCache\Hierarchy\8445ac-mainStage.json
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\StateCache\Hierarchy\8445ac-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\8445ac-mainStage.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\StateCache\SceneView\be2622-mainStage.json
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\StateCache\SceneView\be2622-mainStage.json
+      projectPath: Library\StateCache\SceneView\be2622-mainStage.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\assetDatabase3
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\gfu\cache\branches.yaml
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\gfu\cache\gitlog.yaml
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\gfu\cache\gituser.yaml
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\metadata\2f\2f7e30bbd55864b44b017eca9347e81d
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\metadata\2f\2f7e30bbd55864b44b017eca9347e81d
+      projectPath: Library\metadata\2f\2f7e30bbd55864b44b017eca9347e81d
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\metadata\2f\2f7e30bbd55864b44b017eca9347e81d.info
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\metadata\2f\2f7e30bbd55864b44b017eca9347e81d.info
+      projectPath: Library\metadata\2f\2f7e30bbd55864b44b017eca9347e81d.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\ProjectSettings\TagManager.asset
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: e2b56bf9d6de24bd175e24fb07a088c46ee2f2b9
     mergeA: 
     mergeB: 
