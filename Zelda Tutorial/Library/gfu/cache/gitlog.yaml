@@ -13,9 +13,81 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-04-01T20:46:44.204+11:00
-  initializedAtString: 2019-04-01T18:52:41.547+11:00
+  lastUpdatedAtString: 2019-04-04T18:36:59.794+11:00
+  initializedAtString: 2019-04-04T18:36:49.342+11:00
   log:
+  - commitID: 9ad2804d881ddee126d3567f016be79488666a32
+    mergeA: 
+    mergeB: 
+    authorName: humanissue
+    authorEmail: 48816092+humanissue@users.noreply.github.com
+    commitEmail: 48816092+humanissue@users.noreply.github.com
+    commitName: humanissue
+    summary: lesson 12
+    description: 
+    timeString: 2019-04-01T20:46:55.000+11:00
+    commitTimeString: 2019-04-01T20:46:55.000+11:00
+    changes:
+    - path: Zelda Tutorial\Assets\Scenes\SampleScene.unity
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\InspectorExpandedItems.asset
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\assetDatabase3
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\gfu\cache\branches.yaml
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\gfu\cache\gitlog.yaml
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Zelda Tutorial\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\programming\unity\zelda tutorial\Zelda Tutorial\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 50d2a21b83a8b9f839db060d6e13f1586ef7b3b6
     mergeA: 
     mergeB: 
