@@ -23,6 +23,8 @@ public class playerMovement : MonoBehaviour
         currentState = PlayerState.walk;
         animator = GetComponent<Animator>();
         myRigidBody = GetComponent<Rigidbody2D>();
+        animator.SetFloat("moveX", 0);
+        animator.SetFloat("moveY", -1);
     }
 
     // Update is called once per frame
@@ -47,12 +49,13 @@ public class playerMovement : MonoBehaviour
         currentState = PlayerState.attack;
         yield return null;
         animator.SetBool("attacking", false);
-        yield return new WaitForSeconds(.15F);
+        yield return new WaitForSeconds(0.15F);
         currentState = PlayerState.walk;
     }
 
     void moveCharacter()
     {
+        change.Normalize();
         myRigidBody.MovePosition(transform.position + (change*speed*Time.deltaTime));
     }
 
